@@ -5,6 +5,11 @@
 - Pycaret
 - H2o
 
+## MLops 
+- [cookiecutter](https://github.com/audreyfeldroy/cookiecutter-pypackage) : This package can be used to make project folder structure for your ML project.
+   <br/> eg: ```cookiecutter https://github.com/khuyentran1401/data-science-template```
+- [poetry](https://github.com/python-poetry/poetry) : This package makes declare, manage and install dependencies of Python projects.
+- [hydra](https://github.com/facebookresearch/hydra)
 
 ## Data Annotation Liberary
 - [Pigeon](https://github.com/agermanidis/pigeon)
